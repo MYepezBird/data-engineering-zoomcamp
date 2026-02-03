@@ -1,0 +1,7 @@
+01-docker/pipelines/output_day_12.parquet
+01-docker/pipelines/.python-version
+01-docker/pipelines/pyproject.toml
+01-docker/pipelines/uv.lock
+01-docker/test/list_files.py
+01-docker/pipelines/pipeline.py
+01-docker/pipelines/main.py
