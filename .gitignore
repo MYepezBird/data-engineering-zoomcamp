@@ -3,3 +3,4 @@
 01-docker/pipelines/pyproject.toml
 01-docker/pipelines/uv.lock
 01-docker/pipelines/main.py
+01-docker/pipelines/.ipynb_checkpoints/Notebook-checkpoint.ipynb
